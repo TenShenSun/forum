@@ -7,7 +7,7 @@
 
 2. 配置Modules
 
-   ![1555676938645](C:\Users\SunTi\AppData\Local\Temp\1555676938645.png)
+   ![1555676938645](C:\Users\SunTi\AppData\Local\Temp\1555677458055.png)
 
 3. 配置Artifacts
 
